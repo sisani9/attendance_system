@@ -1,0 +1,8 @@
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.csproj.AssemblyReference.cache
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.AssemblyInfoInputs.cache
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.AssemblyInfo.cs
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.csproj.CoreCompileInputs.cache
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.RazorAssemblyInfo.cache
+D:\AttendanceManagementAPI\AttendanceManagementSystem\obj\Debug\net9.0\AttendanceManagementSystem.RazorAssemblyInfo.cs

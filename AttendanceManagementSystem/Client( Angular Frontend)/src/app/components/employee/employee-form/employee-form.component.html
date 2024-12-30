@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <div class="employee-form">
+        <h2>Add Employee</h2>
+        <form (ngSubmit)="onSubmit()">
+            <label for="name">Name</label>
+            <input type="text" id="name" [(ngModel)]="employee.name" name="name" required>
+
+            <label for="position">Position</label>
+            <input type="text" id="position" [(ngModel)]="employee.position" name="position" required>
+
+            <label for="department">Department</label>
+            <input type="text" id="department" [(ngModel)]="employee.department" name="department" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" [(ngModel)]="employee.email" name="email" required>
+
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" [(ngModel)]="employee.phone" name="phone" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+
+</body>
+</html>

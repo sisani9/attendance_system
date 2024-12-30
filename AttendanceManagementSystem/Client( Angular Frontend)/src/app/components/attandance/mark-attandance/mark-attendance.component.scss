@@ -1,0 +1,31 @@
+.mark-attendance {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.mark-attendance label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.mark-attendance input,
+.mark-attendance select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+
+.mark-attendance button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.mark-attendance button:hover {
+    background-color: #45a049;
+}
